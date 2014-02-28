@@ -1,2 +1,1 @@
 opis projektu
-zmiana
